@@ -11,5 +11,6 @@ project/
     └── index.html # 前端界面
 ├── konwledge.txt #知识文档
 
-启动步骤：
+启动步骤：在python虚拟环境中吗，启动一个独立的 Chroma DB 向量数据库服务
+
 ![291ef7a8c28d4e78140972e86311f660.png](https://github.com/Ganzhihao520/gzh-aiagent/blob/main/291ef7a8c28d4e78140972e86311f660.png)
